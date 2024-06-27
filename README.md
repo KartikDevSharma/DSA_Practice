@@ -1,13 +1,47 @@
-# A2Z DSA Course
+# DSA Course
 
 Welcome to my repository containing solutions for the Data Structures and Algorithms (DSA) problems from Striver's A2Z DSA Sheet! This journey has been an exciting and challenging learning experience, allowing me to sharpen my problem-solving skills and dive deep into the world of DSA.
 
 ## Repository Structure
 
-This repository is organized into two main folders:
+This repository is organized into the following main folders:
 
-1. **Leetcode**: This folder contains solutions to problems found on LeetCode.
-2. **Coding Ninjas (Naukri.com)**: This folder houses solutions to problems from the Coding Ninjas platform, now known as Naukri.com. The solutions are provided in a single Python file in Markdown format for better readability and understanding.
+
+ Step 1: Learn the basics
+
+ Step 2: Learn Important Sorting Techniques
+
+ Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]
+
+ Step 4: Binary Search [1D, 2D Arrays, Search Space]
+
+ Step 5: Strings [Basic and Medium]
+
+ Step 6: Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]
+
+ Step 7: Recursion [PatternWise]
+
+ Step 8: Bit Manipulation [Concepts & Problems]
+
+ Step 9: Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]
+
+ Step 10: Sliding Window & Two Pointer Combined Problems
+
+ Step 11: Heaps [Learning, Medium, Hard Problems]
+
+ Step 12: Greedy Algorithms [Easy, Medium/Hard]
+
+ Step 13: Binary Trees [Traversals, Medium and Hard Problems]
+
+ Step 14: Binary Search Trees [Concept and Problems]
+
+ Step 15: Graphs [Concepts & Problems]
+
+ Step 16: Dynamic Programming [Patterns and Problems]
+
+ Step 17: Tries
+
+ Step 18: Strings
 
 ## Problem Statements and Approaches
 
