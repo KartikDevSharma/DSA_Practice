@@ -13,7 +13,6 @@ This repository is organized into two main folders:
 
 For each problem, I have included the problem statement along with the corresponding problem link. Additionally, I have provided detailed explanations of the approaches and solutions used, showcasing both Java and Python implementations.
 
-Since it had been a while since I worked with Java, I encountered some silly syntax mistakes along the way. To help others who might face similar challenges, I have clearly highlighted the differences in syntax between the Java and Python codes used in the problems.
 
 ## Motivation
 
