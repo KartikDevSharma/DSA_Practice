@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="50%" src="https://github.com/KartikDevSharma/KartikDevSharma/blob/main/Files/leetcode3.png">
+</p>
+
+
 # DSA Practice
 
 Welcome to my repository containing solutions for the Data Structures and Algorithms (DSA) problems from Striver's A2Z DSA Sheet! This journey has been an exciting and challenging learning experience, allowing me to sharpen my problem-solving skills and dive deep into the world of DSA.
@@ -42,6 +47,7 @@ This repository is organized into the following main folders:
  Step 17: Tries
 
  Step 18: Strings
+
 
 ## Problem Statements and Approaches
 
