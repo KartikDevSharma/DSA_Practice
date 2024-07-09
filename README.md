@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="50%" src="https://github.com/KartikDevSharma/KartikDevSharma/blob/main/Files/leetcode3.png">
+  <img width="100%" src="https://github.com/KartikDevSharma/KartikDevSharma/blob/main/Files/dsa.png">
 </p>
 
 
